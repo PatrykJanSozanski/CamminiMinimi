@@ -1,0 +1,20 @@
+NODES 13
+ARCS
+Bari Napoli 262
+Napoli Roma 226
+Roma Firenze 274
+Bologna Firenze 109
+Firenze Genova 232
+Milano Genova 145
+Milano Bologna 216
+Torino Genova 169
+Torino Milano 141
+Venezia Bologna 154
+Venezia Milano 270
+Trieste Venezia 161
+Reggio_Calabria Bari 442
+Reggio_Calabria Napoli 491
+Catania Palermo 243
+Palermo Reggio_Calabria 253
+Catania Reggio_Calabria 119
+END
